@@ -48,4 +48,4 @@ The project also incorporates personal narratives gathered through direct outrea
 
 ## License
 
-This project is for journalistic purposes. Please credit appropriately if reusing materials.
+This project is for journalistic purposes. Please credit the author if reusing materials.
