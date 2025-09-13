@@ -1,4 +1,4 @@
-# MaternalMortality\_MastersProject
+# Maternal Mortality in the US due to Mental Health Challenges
 
 This repository contains the data analysis, visualizations, and reporting materials for my Columbia Journalism School master’s project on maternal mortality in the United States, with a focus on mental health–related deaths.
 
